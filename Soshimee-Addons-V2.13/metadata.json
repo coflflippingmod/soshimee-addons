@@ -1,0 +1,9 @@
+{
+    "name": "LividSolver",
+    "description": "Livid Solver for hypixel skyblock",
+    "author": "IcarusPhantom",
+    "helpMessage": "&5[LividSolver] &fThanks for downloading this modules! Created by &dIcarusPhantom &c❤ &fdo &e/lividsolver &f to open the GUI",
+    "entry": "index2.js",
+    "version": "1.0.3",
+    "requires": ["PogData", "Vigilance", "ChangelogLib"]
+}

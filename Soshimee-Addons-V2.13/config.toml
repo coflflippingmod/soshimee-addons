@@ -1,0 +1,32 @@
+
+[settings]
+
+	[settings.a]
+
+		[settings.a._general]
+			"§afind_correct_livid" = true
+			"§bsay_correct_livid_in_party_chat" = false
+			"§bsend_correct_livid_in_chat" = true
+
+	[settings.b]
+
+		[settings.b._hider]
+			"§ehide_incorrect_livid_entity" = false
+			"§ehide_incorrect_enderman_entity" = false
+			"§ehide_annoying_message_nametag" = false
+			"§ehide_incorrect_livid_nametag" = true
+
+	[settings.c]
+
+		[settings.c._draw_box]
+			"§bbox_mode" = 0
+			"§cbox_color" = "255,255,0,0"
+			"§5e§3n§2a§eb§6l§4e_§4r§2g§1b" = false
+			"§aline_width" = 2.0
+			"§bdraw_box_correct_livid" = true
+
+	[settings.d]
+
+		[settings.d._name_render]
+			"§9render_livid_name_on_gui" = true
+
